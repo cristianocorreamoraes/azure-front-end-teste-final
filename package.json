@@ -1,0 +1,21 @@
+{
+  "name": "azure-front-end-teste-final",
+  "version": "1.0.0",
+  "description": "TESTE FINAL DE DEPLOY NO AZURE DE APLICAÇÃO FRONT-END.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "AZURE",
+    "DEPLY",
+    "CI/CD"
+  ],
+  "author": "CRISTIANO CORREA DE MORAES",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
